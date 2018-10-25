@@ -1,5 +1,4 @@
-# HACKTOBERFEST 2018
-## Event Kit
+# HACKTOBERFEST Event Kit
 
 # How to organize a Hacktoberfest-themed meetup
 ## Step-by-step
