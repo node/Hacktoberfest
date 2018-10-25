@@ -85,7 +85,7 @@ Logos, banners, posters, and more! We kindly ask that you adopt Hacktoberfest Br
 [Download assets](https://assets.digitalocean.com/hacktoberfest/hacktoberfest_2018_brand_assets.zip)
 
 ## 活动网页示例
-###活动名称参考
+### 活动名称参考
 
 * Hacktoberfest Open Hack Night
 * Hacktoberfest Open Hack Day
