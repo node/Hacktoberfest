@@ -1,8 +1,13 @@
 **DECLARATION：**
-This article is translated from link https://hacktoberfest.digitalocean.com/eventkit and the original content is copied to  [eventkit.md](eventkit.md) in Markdown format.
+This article is translated from website https://hacktoberfest.digitalocean.com and the original content is copied to  [eventkit.md](eventkit.md) in Markdown format.
 
-**声明：** 本文翻译自 [Hackoberfest官网](https://hacktoberfest.digitalocean.com/eventkit) ，英文原文已整理为Markdown [eventkit.md](eventkit.md)。Hacktoberfest 指 **十月黑客节** ，为方便交流一般不做翻译。
+**说明：** 本文翻译自 [Hackoberfest官网](https://hacktoberfest.digitalocean.com) ，原文已整理为Markdown格式保存在本仓库。
 
+# CONTENT
+* [Hacktoberfest](hacktoberfest.md) 什么是十月黑客节
+* [Details](details.md) 详细介绍
+* [FAQ](faq.md)  常见问题
+* [Event Kit](eventkit.md)  组织者工具箱
 
 # HACKTOBERFEST 工具箱
 
