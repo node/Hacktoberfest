@@ -1,5 +1,5 @@
 **DECLARATION：**
-This article is translated from website https://hacktoberfest.digitalocean.com and the original content is copied to  [eventkit.md](eventkit.md) in Markdown format.
+This article is translated from website https://hacktoberfest.digitalocean.com and the original content is copied here in Markdown format at 2018-10-25 23:30 GMT+8.
 
 **说明：** 本文翻译自 [Hackoberfest官网](https://hacktoberfest.digitalocean.com) ，原文已整理为Markdown格式保存在本仓库。
 
