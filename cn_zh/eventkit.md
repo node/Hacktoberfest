@@ -1,4 +1,4 @@
-英文原文 [eventkit.md](eventkit.md)
+英文原文 [eventkit.md](../eventkit.md)
 
 
 # HACKTOBERFEST 工具箱
