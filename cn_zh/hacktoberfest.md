@@ -19,7 +19,7 @@ Hacktoberfest 面向全球所有人开放！
 ## 规则
 要获得T恤，必须在任何时区的10月1日到31日期间完成至少5个 PR 。 可以在任何公开的 GitHub 仓库提交PR，不局限于已标记的。PR 必须包含你自己发起的提交信息（不含提交到你自己仓库的）。 经维护者举报或者自动标记为spam的 PR 将会被标记为无效，不会计入赢取T恤的总数中。今年前50,000名可以赢取T恤（与之对比2017年是前30,000名）。
 
-[参与细节 →](https://hacktoberfest.digitalocean.com/details)
+[参与细节 →](../details.md)
 
 ## 价值
 Hacktoberfest 倡导的价值理念是:
@@ -28,12 +28,12 @@ Hacktoberfest 倡导的价值理念是:
 * 数量很有趣，质量很关键
 * 短期行动，长效影响
 
-[更多价值 →](https://hacktoberfest.digitalocean.com/details)
+[更多价值 →](../details.md)
 
 ## Hacktoberfest 项目
 可以贡献至 Github 上的任何项目。这里有一部分帮助你寻找：
 
-[在 GitHub 上浏览器更多](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
+[在 GitHub 上浏览更多](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
 
 ## Hacktoberfest 新手入门
 ### 初学者
