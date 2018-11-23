@@ -6,6 +6,6 @@ This article is translated from website https://hacktoberfest.digitalocean.com a
 # CONTENT
 * [Hacktoberfest 什么是十月黑客节](cn_zh/hacktoberfest.md) 
 * [Details 详细介绍](cn_zh/details.md)
-* [FAQ](faq.md)  常见问题
+* [FAQ 常见问题](cn_zh/faq.md)
 * [Event Kit 组织者工具箱](cn_zh/eventkit.md)  
 
