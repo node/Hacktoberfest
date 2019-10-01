@@ -83,7 +83,7 @@ Hacktoberfest 倡导的价值理念是:
 * 查看仓库的 CONTRIBUTING.md 文件来了解贡献指南和说明。
 * 知道何时 [Rebase 和 更新一个 PR](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)。在多人协作的项目中这点是非常重要的。
 
-Still looking for an issue to work on? Take a look at the Beginners section.
+还想找一些问题吗? 看一看初学者的部分.
 还在寻找能参与的问题？看看初学者的部分。
 
 [或者了解如何维护你的项目。](https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects)
